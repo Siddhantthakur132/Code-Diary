@@ -12,10 +12,12 @@ This site tracks my learning, daily DSA journey, and skills as a future Software
 
 ## 📌 Quick Navigation
 
+
 - 📘 [Coding Diary →](./coding.md)
 - 🧠 [GitHub Profile](https://github.com/Siddhantthakur132)
 - 📫 [LinkedIn](https://www.linkedin.com/in/siddhantthakur132/)
-- 📬 [Email](mailto:your.siddhantthakur132@gmail.com)
+- 📬 [Email](mailto:siddhantthakur132@gmail.com)
+
 
 ---
 
