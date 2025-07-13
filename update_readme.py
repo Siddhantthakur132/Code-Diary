@@ -1,40 +1,39 @@
-import json
 import os
+import json
 
 def generate_readme():
+    day_map_path = "day_map.json"
     readme_path = "README.md"
-    day_map_file = "day_map.json"
 
-    if not os.path.exists(day_map_file):
+    if not os.path.exists(day_map_path):
         print("❌ day_map.json not found!")
         return
 
-    with open(day_map_file, "r", encoding="utf-8") as f:
+    with open(day_map_path, "r", encoding="utf-8") as f:
         day_map = json.load(f)
 
-    lines = []
-    lines.append("# 📘 CODE_DIARY – My Daily DSA Practice\n\n")
-    lines.append("This repository contains my daily DSA problem solutions grouped by day and topic.\n\n")
-    lines.append("## 🗓️ Daily Progress\n")
+    content = []
+    content.append("# 📘 CODE_DIARY – My Daily DSA Practice\n")
+    content.append("\nThis repository contains my daily DSA problem solutions grouped by day and topic.\n")
+    content.append("\n## 📅 Daily Progress\n")
 
-    for day, files in day_map.items():
-        lines.append(f"\n### 🗓️ {day}\n")
-        lines.append("| 📁 Topic | 📄 Problem |\n")
-        lines.append("|----------|------------|\n")
+    for day, problems in day_map.items():
+        content.append(f"\n### 🗓️ {day}\n")
+        content.append("| 📁 Topic | 📄 Problem |\n")
+        content.append("|-----------|-------------|\n")
 
-        for path in files:
-            if os.path.exists(path):
-                topic = path.split("/")[0]
-                filename = path.split("/")[-1]
-                url_path = path.replace(" ", "%20")
-                lines.append(f"| {topic} | [{filename}]({url_path}) |\n")
-            else:
-                lines.append(f"| - | ⚠️ Missing: `{path}` |\n")
+        for path in problems:
+            if not os.path.exists(path):
+                continue
+            topic = path.split("/")[0]
+            file = path.split("/")[-1]
+            url_path = path.replace(" ", "%20")
+            content.append(f"| {topic} | [{file}]({url_path}) |\n")
 
     with open(readme_path, "w", encoding="utf-8") as f:
-        f.writelines(lines)
+        f.writelines(content)
 
-    print("✅ README.md updated based on day_map.json!")
+    print("✅ README.md updated with clean layout!")
 
 if __name__ == "__main__":
     generate_readme()

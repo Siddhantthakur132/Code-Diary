@@ -1,46 +1,48 @@
 ---
-title: Siddhant Thakur – Portfolio
 layout: default
+title: Siddhant Thakur – Portfolio
 ---
 
-# 👨‍💻 Siddhant Thakur – Developer & DSA Enthusiast
+# 👨‍💻 Siddhant Thakur
 
-Welcome to my personal portfolio website!  
-This site tracks my learning, daily DSA journey, and skills as a future Software Engineer 🚀
-
----
-
-## 📌 Quick Navigation
-
-- 📘 [Coding Diary →](./coding.md)
-- 🧠 [GitHub Profile](https://github.com/Siddhantthakur132)
-- 🔢 [LeetCode](https://leetcode.com/u/siddhantthakur132/)
-- 💚 [GeeksforGeeks](https://www.geeksforgeeks.org/user/siddhantt9ge8/)
-- 📫 [LinkedIn](https://www.linkedin.com/in/siddhantthakur132/)
-- 📬 [Email](mailto:siddhantthakur132@gmail.com)
-
+> B.Tech CSE @ BIST Bhopal | DSA Enthusiast | Future Software Engineer
 
 ---
 
 ## 🧠 About Me
 
-> Hi, I’m Siddhant from **Raisen (M.P.)**, currently pursuing **B.Tech in CSE** at **BIST Bhopal**.  
-> I'm passionate about DSA, software development, and building impactful solutions.
-
-- 🎯 Career Goal: Software Engineer + Startup Founder
-- 📚 Interests: Algorithms, Web Development, System Design
-- 🏆 Hackathons: SIH 2023, SIH 2024, CodeActive 2.0
+Hi! I'm **Siddhant** from Raisen (M.P.). I'm passionate about **DSA, Software Development, Hackathons** and building digital products that matter.
 
 ---
 
-## 🧰 Skills & Tools
+## 🧰 Skills
 
-| Language | Tools & Frameworks |
-|----------|---------------------|
-| C++, C   | Git, GitHub, VS Code |
-| HTML, CSS | Bootstrap, Tailwind CSS |
-| JavaScript | React (Learning...) |
-| DBMS | MySQL, MongoDB (Basics) |
+- **Languages**: C++, C, HTML, CSS, JavaScript
+- **Frameworks**: Bootstrap, Tailwind CSS, React (learning)
+- **Databases**: MySQL, MongoDB (basics)
+- **Tools**: Git, GitHub, VS Code
+
+---
+
+## 💼 Projects
+
+- 🔍 **Lost and Found App** – Campus item tracker  
+- 📋 **Student Report Manager** – Marks & report generator  
+- 🎯 **Smart Classroom** – SIH Hackathon project  
+- 📱 **Fitness App UI** – Frontend showcase
+
+---
+
+## 📘 Coding Diary
+
+Daily DSA solutions → [View Diary →](./coding.md)
+
+---
+
+## 📄 Resume
+
+[⬇️ Download Resume (PDF)](./resume.pdf)  
+[View Resume Page →](./resume.md)
 
 ---
 
@@ -56,24 +58,12 @@ This site tracks my learning, daily DSA journey, and skills as a future Software
 
 [![GFG Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=siddhantt9ge8)](https://www.geeksforgeeks.org/user/siddhantt9ge8/)
 
-
-
 ---
 
-## 💼 Projects Snapshot
+## 🔗 Connect with Me
 
-- 🔍 **Lost and Found App** – Campus lost item tracker
-- 📋 **Student Report Manager** – Marks & report generation system
-
----
-
-## 🔗 Let's Connect
-
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Siddhantthakur132)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siddhantthakur132/)  
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:siddhantthakur132@gmail.com)
-
-
-
----
+[GitHub](https://github.com/Siddhantthakur132) |  
+[LinkedIn](https://www.linkedin.com/in/siddhantthakur132/) |  
+[GFG](https://www.geeksforgeeks.org/user/siddhantt9ge8/) |  
+[LeetCode](https://leetcode.com/u/siddhantthakur132/) |  
+[Email](mailto:siddhantthakur132@gmail.com)
