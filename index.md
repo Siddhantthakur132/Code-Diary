@@ -12,13 +12,12 @@ This site tracks my learning, daily DSA journey, and skills as a future Software
 
 ## 📌 Quick Navigation
 
-- 📘 [Coding Diary →](./coding.html)
+- 📘 [Coding Diary →](./coding.md)
 - 🧠 [GitHub Profile](https://github.com/Siddhantthakur132)
 - 🔢 [LeetCode](https://leetcode.com/u/siddhantthakur132/)
 - 💚 [GeeksforGeeks](https://www.geeksforgeeks.org/user/siddhantt9ge8/)
 - 📫 [LinkedIn](https://www.linkedin.com/in/siddhantthakur132/)
 - 📬 [Email](mailto:siddhantthakur132@gmail.com)
-
 
 ---
 
@@ -56,7 +55,6 @@ This site tracks my learning, daily DSA journey, and skills as a future Software
 
 [![GFG Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=siddhantt9ge8)](https://www.geeksforgeeks.org/user/siddhantt9ge8/)
 
-
 ---
 
 ## 💼 Projects Snapshot
@@ -73,5 +71,3 @@ This site tracks my learning, daily DSA journey, and skills as a future Software
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Siddhantthakur132)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siddhantthakur132/)  
 [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:siddhantthakur132@gmail.com)
-
----
