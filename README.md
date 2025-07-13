@@ -2,7 +2,7 @@
 
 This repository contains my daily DSA problem solutions grouped by day and topic.
 
-## 🗓️ Daily Progress
+## 📅 Daily Progress
 
 ### 🗓️ Day1
 | 📁 Topic | 📄 Problem |
