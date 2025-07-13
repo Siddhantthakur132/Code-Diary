@@ -6,7 +6,7 @@ This repository contains my daily DSA problem solutions grouped by day and topic
 
 ### 🗓️ Day1
 | 📁 Topic | 📄 Problem |
-|----------|------------|
+|-----------|-------------|
 | Array | [Plus-One.cpp](Array/Plus-One.cpp) |
 | Array | [Beautiful-Pairs.cpp](Array/Beautiful-Pairs.cpp) |
 | Array | [Search-insert-Position.cpp](Array/Search-insert-Position.cpp) |
