@@ -56,11 +56,11 @@ This site tracks my learning, daily DSA journey, and skills as a future Software
 
 ## 🔗 Let's Connect
 
-## 🔗 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Siddhantthakur132)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siddhantthakur132/)  
 [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:siddhantthakur132@gmail.com)
+
 
 
 ---
