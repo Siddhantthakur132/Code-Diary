@@ -47,6 +47,12 @@ This site tracks my learning, daily DSA journey, and skills as a future Software
 
 ![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddhantthakur132&show_icons=true&theme=tokyonight)
 
+## 🧮 LeetCode Stats
+
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/siddhantthakur132?theme=dark&font=Karma&ext=activity)](https://leetcode.com/u/siddhantthakur132/)
+
+
 ---
 
 ## 💼 Projects Snapshot
