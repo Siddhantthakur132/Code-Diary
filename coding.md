@@ -24,9 +24,14 @@ Here’s my daily progress log of C++ problem-solving, structured by **day** and
 
 ### 📅 Day 2
 
-| 📁 Topic | 📄 Problem |
-|----------|------------|
-| Array    | [Move-Zeroes.cpp](Array/Move-Zeroes.cpp) |
+| 📁 Topic     | 📄 Problem                                                                 |
+|--------------|----------------------------------------------------------------------------|
+| Array        | [Move-Zeroes.cpp](Array/Move-Zeroes.cpp)                                  |
+| Linked List  | [Reverse-a-Linked-List-II.cpp](Linked%20List/Reverse-a-Linked-List-II.cpp)|
+| Linked List  | [Rotate-a-Linked-List.cpp](Linked%20List/Rotate-a-Linked-List.cpp)        |
+| Linked List  | [Merge-Two-Sorted-Lists.cpp](Linked%20List/Merge-Two-Sorted-Lists.cpp)    |
+| Linked List  | [Add-Two-Numbers.cpp](Linked%20List/Add-Two-Numbers.cpp)                  |
+
 
 ---
 
