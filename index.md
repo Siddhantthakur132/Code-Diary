@@ -12,7 +12,7 @@ This site tracks my learning, daily DSA journey, and skills as a future Software
 
 ## 📌 Quick Navigation
 
-- 📘 [Coding Diary →](./coding.md)
+- 📘 [Coding Diary →](./coding.html)
 - 🧠 [GitHub Profile](https://github.com/Siddhantthakur132)
 - 🔢 [LeetCode](https://leetcode.com/u/siddhantthakur132/)
 - 💚 [GeeksforGeeks](https://www.geeksforgeeks.org/user/siddhantt9ge8/)
