@@ -13,7 +13,7 @@ Here’s my daily progress log of C++ problem-solving, structured by **day** and
 
 | 📁 Topic      | 📄 Problem |
 |--------------|------------|
-| Array        | [Plus-One](./problems/Day1_Array_Plus-One.md) |
+| Array        | [Plus-One](./Array/Day1_Array_Plus-One.md) |
 | Array        | [Beautiful-Pairs.cpp](./Array/Beautiful-Pairs.cpp) |
 | Array        | [Search-insert-Position.cpp](./Array/Search-insert-Position.cpp) |
 | Backtracking | [Permutations.cpp](./Array/Permutations.cpp) |
