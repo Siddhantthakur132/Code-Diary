@@ -1,0 +1,6 @@
+# Ignore editor and build files
+.vscode/
+*.exe
+*.o
+*.out
+*.log
