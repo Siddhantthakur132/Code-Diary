@@ -3,6 +3,8 @@
     "Array/Plus-One.cpp",
     "Array/Beautiful-Pairs.cpp",
     "Array/Search-insert-Position.cpp",
-    "Two Pointer/Intersection-of-two-array-II.cpp"
+    "Two Pointer/Intersection-of-two-array-II.cpp",
+    "Two Pointer/Two-Sum.cpp"
+
   ]
 }
