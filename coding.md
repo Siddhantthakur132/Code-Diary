@@ -1,23 +1,33 @@
 ---
-layout: default
 title: My Coding Diary
+layout: default
 ---
 
-# 📘 My Daily Coding Diary
+# 📘 Daily DSA Coding Diary
 
-Here’s my day-wise DSA problem log:
+Here’s my daily progress log of C++ problem-solving, structured by **day** and **topic**.
+
+---
 
 ### 📅 Day1
 
 | 📁 Topic | 📄 Problem |
-|---------|------------|
+|----------|------------|
 | Array | [Plus-One.cpp](Array/Plus-One.cpp) |
+| Array | [Beautiful-Pairs.cpp](Array/Beautiful-Pairs.cpp) |
+| Array | [Search-insert-Position.cpp](Array/Search-insert-Position.cpp) |
+| Two Pointer | [Intersection-of-two-array-II.cpp](Two%20Pointer/Intersection-of-two-array-II.cpp) |
 | Two Pointer | [Two-Sum.cpp](Two%20Pointer/Two-Sum.cpp) |
+
+---
 
 ### 📅 Day2
 
 | 📁 Topic | 📄 Problem |
-|---------|------------|
+|----------|------------|
 | Array | [Move-Zeroes.cpp](Array/Move-Zeroes.cpp) |
 
-*(Continue adding new days and problems here...)*
+---
+
+📌 **New days will be added regularly!**  
+Stay tuned for Day3, Day4… and all the way to Day300! 🧠🔥
