@@ -14,8 +14,11 @@ This site tracks my learning, daily DSA journey, and skills as a future Software
 
 - 📘 [Coding Diary →](./coding.md)
 - 🧠 [GitHub Profile](https://github.com/Siddhantthakur132)
+- 🔢 [LeetCode](https://leetcode.com/u/siddhantthakur132/)
+- 💚 [GeeksforGeeks](https://www.geeksforgeeks.org/user/siddhantt9ge8/)
 - 📫 [LinkedIn](https://www.linkedin.com/in/siddhantthakur132/)
 - 📬 [Email](mailto:siddhantthakur132@gmail.com)
+
 
 ---
 
@@ -44,6 +47,15 @@ This site tracks my learning, daily DSA journey, and skills as a future Software
 ## 📈 GitHub Stats
 
 ![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddhantthakur132&show_icons=true&theme=tokyonight)
+
+## 🧮 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/siddhantthakur132?theme=dark&font=Karma&ext=activity)](https://leetcode.com/u/siddhantthakur132/)
+
+## 📘 GeeksforGeeks Stats
+
+[![GFG Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=siddhantt9ge8)](https://www.geeksforgeeks.org/user/siddhantt9ge8/)
+
 
 ---
 
