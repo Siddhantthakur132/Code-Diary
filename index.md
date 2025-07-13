@@ -1,53 +1,43 @@
 ---
-title: CODE_DIARY
+title: Siddhant Thakur – Portfolio
 layout: default
 ---
 
-# 👨‍💻 Siddhant Thakur's CODE_DIARY
+# 👨‍💻 Siddhant Thakur – Developer & DSA Enthusiast
 
-Welcome to my **DSA Daily Practice Portfolio Website**.  
-This site tracks all the C++ coding problems I solve daily, organized by **topic** and **date** — to stay consistent, sharp, and interview-ready. 💪
-
----
-
-## 📊 Overview
-
-- 🎓 B.Tech CSE @ BIST Bhopal
-- 🗓️ Consistently solving problems daily
-- ⚙️ Topics: Arrays, Strings, Pointers, Stack, Queue, and more
-- 🚀 Built with GitHub + Markdown + Pages
+Welcome to my personal portfolio website!  
+This site tracks my learning, daily DSA journey, and skills as a future Software Engineer 🚀
 
 ---
 
-## 📅 Daily Problem Tracker
+## 📌 Quick Navigation
 
-### 📅 Day1
-
-| 📁 Topic | 📄 Problem |
-|----------|------------|
-| Array | [Plus-One.cpp](Array/Plus-One.cpp) |
-| Array | [Beautiful-Pairs.cpp](Array/Beautiful-Pairs.cpp) |
-| Array | [Search-insert-Position.cpp](Array/Search-insert-Position.cpp) |
-| Two Pointer | [Intersection-of-two-array-II.cpp](Two%20Pointer/Intersection-of-two-array-II.cpp) |
-| Two Pointer | [Two-Sum.cpp](Two%20Pointer/Two-Sum.cpp) |
-
-### 📅 Day2
-
-| 📁 Topic | 📄 Problem |
-|----------|------------|
-| Array | [Move-Zeroes.cpp](Array/Move-Zeroes.cpp) |
+- 📘 [Coding Diary →](./coding.md)
+- 🧠 [GitHub Profile](https://github.com/Siddhantthakur132)
+- 📫 [LinkedIn](https://linkedin.com/in/your-link)
+- 📬 [Email](mailto:your.email@example.com)
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 About Me
 
-| Tool       | Use                          |
-|------------|------------------------------|
-| 💻 C++     | Problem Solving              |
-| ✍️ VS Code | Writing & organizing code    |
-| 🔄 Git     | Version Control              |
-| ☁️ GitHub  | Hosting and tracking         |
-| 🌐 Pages   | Website via GitHub Pages     |
+> Hi, I’m Siddhant from **Raisen (M.P.)**, currently pursuing **B.Tech in CSE** at **BIST Bhopal**.  
+> I'm passionate about DSA, software development, and building impactful solutions.
+
+- 🎯 Career Goal: Software Engineer + Startup Founder
+- 📚 Interests: Algorithms, Web Development, System Design
+- 🏆 Hackathons: SIH 2023, SIH 2024, CodeActive 2.0
+
+---
+
+## 🧰 Skills & Tools
+
+| Language | Tools & Frameworks |
+|----------|---------------------|
+| C++, C   | Git, GitHub, VS Code |
+| HTML, CSS | Bootstrap, Tailwind CSS |
+| JavaScript | React (Learning...) |
+| DBMS | MySQL, MongoDB (Basics) |
 
 ---
 
@@ -57,21 +47,17 @@ This site tracks all the C++ coding problems I solve daily, organized by **topic
 
 ---
 
-## 🧠 About Me
+## 💼 Projects Snapshot
 
-> Hey there! I'm Siddhant Thakur from **Raisen, MP**, currently pursuing B.Tech CSE at **BIST Bhopal**.  
-> I love coding, learning algorithms, and building cool things.  
-> My goal is to become a **software engineer** and eventually build my own company someday.  
-> This project keeps me accountable to grow every day. 🚀
-
-📬 [GitHub](https://github.com/Siddhantthakur132) | [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:your.email@example.com)
+- 🔍 **Lost and Found App** – Campus lost item tracker
+- 📋 **Student Report Manager** – Marks & report generation system
 
 ---
 
-### 💡 Tip for Reviewers / Recruiters
+## 🔗 Let's Connect
 
-> Want to see my consistency, focus, and real code?  
-> Just scroll through the problem list above — this is my unfiltered daily grind.
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Siddhantthakur132)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siddhantthakur132/)
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:your.siddhantthakur132@gmail.com)
 
 ---
-
