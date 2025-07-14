@@ -36,10 +36,16 @@ Here’s my daily progress log of C++ problem-solving, structured by **day** and
 ---
 ### 📅 Day 3
 
-| 📁 Topic        | 📄 Problem |
-|----------------|------------|
-| Array          | [Pass-the-Pillow.cpp](./Array/Pass-the-Pillow.cpp) |
-| Binary Search  | [Book-Allocation.cpp](./Binary%20Search/Book-Allocation.cpp) |
+| 📁 Topic       | 📄 Problem                                                         |
+|----------------|--------------------------------------------------------------------|
+| Array          | [Pass-the-Pillow.cpp](Array/Pass-the-Pillow.cpp)                   |
+| Binary Search  | [Book-Allocation.cpp](Binary%20Search/Book-Allocation.cpp)         |
+| Binary Search  | [Aggressive-Cows.cpp](Binary%20Search/Aggressive-Cows.cpp)         |
+| Binary Search  | [Koko-Eating-Bananas.cpp](Binary%20Search/Koko-Eating-Bananas.cpp) |
+| Binary Search  | [Find-Peak-Element.cpp](Binary%20Search/Find-Peak-Element.cpp)     |
+| Binary Search  | [Number-of-Occurrences.cpp](Binary%20Search/Number-of-Occurrences.cpp) |
+| Binary Search  | [Search-in-Rotated-Sorted-Array.cpp](Binary%20Search/Search-in-Rotated-Sorted-Array.cpp) |
+| Binary Search  | [Missing-Number.cpp](Binary%20Search/Missing-Number.cpp)           |
 
 ---
 
