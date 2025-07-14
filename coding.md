@@ -34,6 +34,12 @@ Here’s my daily progress log of C++ problem-solving, structured by **day** and
 
 
 ---
+### 📅 Day 3
+
+| 📁 Topic | 📄 Problem                                      |
+|----------|-------------------------------------------------|
+| Array    | [Pass-the-Pillow.cpp](Array/Pass-the-Pillow.cpp) |
+
 
 📌 **New days will be added regularly!**  
 Stay tuned for Day3, Day4… and all the way to Day300! 🧠🔥
