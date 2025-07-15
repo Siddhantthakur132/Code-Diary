@@ -48,6 +48,14 @@ Here’s my daily progress log of C++ problem-solving, structured by **day** and
 | Binary Search  | [Missing-Number.cpp](Binary%20Search/Missing-Number.cpp)           |
 
 ---
+### 📅 Day 4
+
+| 📁 Topic      | 📄 Problem                                      |
+|--------------|-------------------------------------------------|
+| HackerRank   | [Adjusted_Averages.cpp](./Hacker-Rank/Adjusted_Averages.cpp) |
+| HackerRank   | [Candies.cpp](./Hacker-Rank/Candies.cpp)        |
+| HackerRank   | [Left-rotate.cpp](./Hacker-Rank/Left-rotate.cpp) |
+---
 
 📌 **New days will be added regularly!**  
 Stay tuned for Day3, Day4… and all the way to Day300! 🧠🔥
